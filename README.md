@@ -1,6 +1,6 @@
 # Brain Tumor MRI Classifier
 
-A Streamlit application that classifies uploaded brain MRI images into four categories: glioma tumor, meningioma tumor, pituitary tumor, or no tumor.
+A Streamlit application that classifies uploaded brain MRI images into four categories: glioma tumor, meningioma tumor, pituitary tumor, or no tumor. Check it out [here](https://brain-tumorclassification.streamlit.app/)
 
 > Educational demo only. This project is not a medical diagnostic tool.
 
